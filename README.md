@@ -2,6 +2,8 @@
 
 This is the `Pytorch` implementation for **[Conditional Bures Metric for Domain Adaptation (CKB) (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html)**.
 
+**[[PDF]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf) [[Poster]](https://www.youweiluo.top/Papers/CKB_CVPR21_Poster.pdf) [[Video]](https://drive.google.com/file/d/1RMGOmWvt0eME9Mb2aPOvamX5KiEQU4TM/view?usp=sharing)**
+
 ## Overview
 
 *"Conditional Kernel Bures (CKB) is a conditional distribution adaptation model, which explores Wasserstein-Bures geometry and learns conditional invariant representations for knowledge transfer."*
