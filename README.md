@@ -4,7 +4,7 @@ This is the `Pytorch` implementation for **[Conditional Bures Metric for Domain 
 
 ## Overview
 
-*"“Conditional Kernel Bures (CKB) is a conditional distribution adaptation model, which explores Wasserstein-Bures geometry and learns conditional invariant representations for knowledge transfer."*
+*"Conditional Kernel Bures (CKB) is a conditional distribution adaptation model, which explores Wasserstein-Bures geometry and learns conditional invariant representations for knowledge transfer."*
 
 ### Insight
 ![CKB_Insight](https://github.com/LavieLuo/Datasets/blob/master/CKB_Insight.PNG)
