@@ -46,7 +46,7 @@ OfficeHome (Dataset)
   python main.py --dataset OfficeHome --exp_times 10 --batch_size 40 --CKB_lambda 1e-1 -- CKB_type hard --inv_epsilon 1e-2 --lr 3e-4
   ```
   
-  - For ImageCLEF dataset with SGD or Adam optimizer, please run
+- For ImageCLEF dataset with SGD or Adam optimizer, please run
 
   ``` 
   python main.py --dataset ImageCLEF --exp_times 10 --batch_size 40 --CKB_lambda 1e0 --inv_epsilon 1e-1 --lr 1e-3 --optim_param GD
